@@ -3233,7 +3233,7 @@
 
 :root {
     --base-font-size: 13px;
-    --heading-font-font-family: pragmatica-extended;
+    --heading-font-font-family: Inter;
     --heading-font-font-style: normal;
     --heading-font-font-weight: 700;
     --heading-font-text-transform: none !important;
@@ -3245,7 +3245,7 @@
     --body-font-text-transform: none !important;
     --body-font-letter-spacing: 0em;
     --body-font-line-height: 1.6em;
-    --meta-font-font-family: pragmatica-extended;
+    --meta-font-font-family: Inter;
     --meta-font-font-style: normal;
     --meta-font-font-weight: 700;
     --meta-font-text-transform: uppercase;

@@ -4079,7 +4079,7 @@
   }
   .product-list .category-filter-item {
     padding: 0 1.5vw;
-    text-transform: capitalize;
+    text-transform: none;
   }
   .product-list .category-filter-item:first-child {
     padding-left: 0;

@@ -58804,7 +58804,7 @@ Error generating stack: ` + K.message + `
                 }
                 return me
             }
-            Be.Squarespace._humanizeAllDates = function (oe) {
+            /*Be.Squarespace._humanizeAllDates = function (oe) {
                 Y.all(oe).each(function (me) {
                     var Te = parseInt(me.getAttribute("data-date"), 10);
                     if (!Y.Lang.isNumber(Te)) {
@@ -58814,7 +58814,7 @@ Error generating stack: ` + K.message + `
                     me.set("innerHTML", (0,
                         N.default)(Te).capitalize())
                 })
-            }
+            }*/
                 ,
                 Be.Squarespace.afterBodyLoad = function () {
                     var oe = Be.Y

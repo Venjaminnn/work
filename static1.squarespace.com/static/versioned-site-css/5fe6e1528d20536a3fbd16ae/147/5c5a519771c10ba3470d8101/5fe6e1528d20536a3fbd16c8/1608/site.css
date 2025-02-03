@@ -3236,13 +3236,11 @@
     --heading-font-font-family: pragmatica-extended;
     --heading-font-font-style: normal;
     --heading-font-font-weight: 700;
-    --heading-font-text-transform: none !important;
     --heading-font-letter-spacing: .01em;
     --heading-font-line-height: 1.2em;
     --body-font-font-family: "Helvetica Neue",Arial,sans-serif;
     --body-font-font-style: normal;
     --body-font-font-weight: 400;
-    --body-font-text-transform: none !important;
     --body-font-letter-spacing: 0em;
     --body-font-line-height: 1.6em;
     --meta-font-font-family: pragmatica-extended;
@@ -3294,7 +3292,7 @@
     --portfolio-item-pagination-font-font-family: var(--heading-font-font-family);
     --portfolio-item-pagination-font-font-style: var(--heading-font-font-style);
     --portfolio-item-pagination-font-font-weight: var(--heading-font-font-weight);
-    /*--portfolio-item-pagination-font-text-transform: var(--heading-font-text-transform);*/
+    --portfolio-item-pagination-font-text-transform: var(--heading-font-text-transform);
     --portfolio-item-pagination-font-letter-spacing: var(--heading-font-letter-spacing);
     --portfolio-item-pagination-font-line-height: var(--heading-font-line-height);
     --portfolio-item-pagination-font-font-size: var(--heading-4-size);

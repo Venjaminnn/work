@@ -2948,7 +2948,7 @@
                     , F = P.Array.map(N, function(j) {
                       return j.charAt(0).toUpperCase() + j.substr(1)
                   });
-                  return F.join(" ")
+                  return I
               },
               generateVariantId: function() {
                   return O()()

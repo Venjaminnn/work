@@ -3595,7 +3595,7 @@
     --blog-single-column-list-meta-font-line-height: var(--meta-font-line-height);
     --blog-single-column-list-meta-font-font-size: var(--normal-meta-size);
     --blog-single-column-list-meta-font-font-size-value: var(--normal-meta-size-value);
-    --portfolio-grid-basic-title-font-font-family: pragmatica-extended;
+    --portfolio-grid-basic-title-font-font-family: Inter;
     --portfolio-grid-basic-title-font-font-style: normal;
     --portfolio-grid-basic-title-font-font-weight: 700;
     --portfolio-grid-basic-title-font-text-transform: none;

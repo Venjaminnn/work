@@ -3236,7 +3236,7 @@
     --heading-font-font-family: pragmatica-extended;
     --heading-font-font-style: normal;
     --heading-font-font-weight: 700;
-    --heading-font-text-transform: capitalize;
+    --heading-font-text-transform: none;
     --heading-font-letter-spacing: .01em;
     --heading-font-line-height: 1.2em;
     --body-font-font-family: "Helvetica Neue",Arial,sans-serif;

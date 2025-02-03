@@ -2942,14 +2942,14 @@
                       return P.Lang.isUndefined(N.priceCents) ? 0 : N.priceCents
                   }
               },
-              capitalizeFirst: function(I) {
+              /*capitalizeFirst: function(I) {
                   I = I.toLowerCase();
                   var N = I.split(new RegExp("\\s+"))
                     , F = P.Array.map(N, function(j) {
                       return j.charAt(0).toUpperCase() + j.substr(1)
                   });
-                  return I
-              },
+                  return F.join(" ")
+              },*/
               generateVariantId: function() {
                   return O()()
               },

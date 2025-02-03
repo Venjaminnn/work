@@ -3236,13 +3236,13 @@
     --heading-font-font-family: pragmatica-extended;
     --heading-font-font-style: normal;
     --heading-font-font-weight: 700;
-    --heading-font-text-transform: none;
+    --heading-font-text-transform: none !important;
     --heading-font-letter-spacing: .01em;
     --heading-font-line-height: 1.2em;
     --body-font-font-family: "Helvetica Neue",Arial,sans-serif;
     --body-font-font-style: normal;
     --body-font-font-weight: 400;
-    --body-font-text-transform: none;
+    --body-font-text-transform: none !important;
     --body-font-letter-spacing: 0em;
     --body-font-line-height: 1.6em;
     --meta-font-font-family: pragmatica-extended;
@@ -10482,7 +10482,7 @@ body.sqs-lightbox-open {
     cursor: pointer;
     -webkit-appearance: none;
     appearance: none;
-    text-transform: none
+    text-transform: none !important
 }
 
 .amazon-block .center .sqs-amazon-button {
@@ -11071,7 +11071,7 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper.opentable-bloc
     -webkit-appearance: none;
     appearance: none;
     font-size: 14px;
-    text-transform: none
+    text-transform: none !important
 }
 
 .form-wrapper .form-submission-text {
@@ -11123,13 +11123,13 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper.opentable-bloc
     -webkit-appearance: none;
     appearance: none;
     font-size: 14px;
-    text-transform: none
+    text-transform: none !important
 }
 
 .sqs-modal-lightbox {
     width: 100%;
     font-size: 14px;
-    text-transform: none;
+    text-transform: none !important;
     font-style: normal;
     text-decoration: none
 }
@@ -17663,7 +17663,7 @@ body.sqs-tweak-overlays-active .sqs-block-image .design-layout-poster .image-car
     margin: 0;
     font-size: 13px;
     line-height: 1.4em;
-    text-transform: none
+    text-transform: none !important
 }
 
 .sqs-block-summary-v2 .summary-metadata-item a,.sqs-block-summary-v2 .summary-metadata-item a:hover {
@@ -20043,7 +20043,7 @@ img[data-src]:not([src]):not([srcset]) {
 
 .products.collection-content-wrapper .category-filter-item {
     padding: 0 1.5vw;
-    text-transform: none
+    text-transform: none !important
 }
 
 .products.collection-content-wrapper .category-filter-item:first-child {
@@ -32725,7 +32725,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 
 .blog-item-wrapper .blog-item-content-paywall .blog-item-content-paywall-notice .blog-item-content-paywall-notice-link {
     display: block;
-    text-transform: none
+    text-transform: none !important
 }
 
 .blog-item-wrapper article.entry {
@@ -35668,7 +35668,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 
 .sold-out .product-details .product-mark.sold-out {
     display: block;
-    text-transform: none;
+    text-transform: none !important;
     font-weight: normal
 }
 
@@ -39977,7 +39977,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 
 .afterpay-modal h3 {
     color: #000;
-    text-transform: none
+    text-transform: none !important
 }
 
 .afterpay-modal .afterpay-modal-close-button {
@@ -40675,7 +40675,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 
 .product-list .category-filter-item {
     padding: 0 1.5vw;
-    text-transform: none
+    text-transform: none !important
 }
 
 .product-list .category-filter-item:first-child {

@@ -3248,7 +3248,7 @@
     --meta-font-font-family: pragmatica-extended;
     --meta-font-font-style: normal;
     --meta-font-font-weight: 700;
-    --meta-font-text-transform: none !important;
+    --meta-font-text-transform: uppercase;
     --meta-font-letter-spacing: .01em;
     --meta-font-line-height: 1em;
     --heading-1-size: 4.6rem;
@@ -3294,7 +3294,7 @@
     --portfolio-item-pagination-font-font-family: var(--heading-font-font-family);
     --portfolio-item-pagination-font-font-style: var(--heading-font-font-style);
     --portfolio-item-pagination-font-font-weight: var(--heading-font-font-weight);
-    --portfolio-item-pagination-font-text-transform: var(--heading-font-text-transform);
+    /*--portfolio-item-pagination-font-text-transform: var(--heading-font-text-transform);*/
     --portfolio-item-pagination-font-letter-spacing: var(--heading-font-letter-spacing);
     --portfolio-item-pagination-font-line-height: var(--heading-font-line-height);
     --portfolio-item-pagination-font-font-size: var(--heading-4-size);
@@ -3358,7 +3358,7 @@
     --primary-button-font-font-family: "Helvetica Neue",Arial,sans-serif;
     --primary-button-font-font-style: normal;
     --primary-button-font-font-weight: 700;
-    --primary-button-font-text-transform: none !important;
+    --primary-button-font-text-transform: none;
     --primary-button-font-letter-spacing: .05em;
     --primary-button-font-line-height: 1.2em;
     --primary-button-font-font-size: 1rem;
@@ -3550,7 +3550,7 @@
     --secondary-button-font-font-family: "Helvetica Neue",Arial,sans-serif;
     --secondary-button-font-font-style: normal;
     --secondary-button-font-font-weight: 700;
-    --secondary-button-font-text-transform: none !important;
+    --secondary-button-font-text-transform: none;
     --secondary-button-font-letter-spacing: .05em;
     --secondary-button-font-line-height: 1.2em;
     --secondary-button-font-font-size: 1.3rem;
@@ -3598,7 +3598,7 @@
     --portfolio-grid-basic-title-font-font-family: pragmatica-extended;
     --portfolio-grid-basic-title-font-font-style: normal;
     --portfolio-grid-basic-title-font-font-weight: 700;
-    --portfolio-grid-basic-title-font-text-transform: none !important;
+    --portfolio-grid-basic-title-font-text-transform: none;
     --portfolio-grid-basic-title-font-letter-spacing: .01em;
     --portfolio-grid-basic-title-font-line-height: 1.2em;
     --portfolio-grid-basic-title-font-font-size: 1.4rem;
@@ -3670,7 +3670,7 @@
     --tertiary-button-font-font-family: "Helvetica Neue",Arial,sans-serif;
     --tertiary-button-font-font-style: normal;
     --tertiary-button-font-font-weight: 700;
-    --tertiary-button-font-text-transform: none !important;
+    --tertiary-button-font-text-transform: none;
     --tertiary-button-font-letter-spacing: .05em;
     --tertiary-button-font-line-height: 1.2em;
     --tertiary-button-font-font-size: .9rem;
@@ -4006,7 +4006,7 @@
     --header-button-font-font-family: "Helvetica Neue",Arial,sans-serif;
     --header-button-font-font-style: normal;
     --header-button-font-font-weight: 700;
-    --header-button-font-text-transform: none !important;
+    --header-button-font-text-transform: none;
     --header-button-font-letter-spacing: .05em;
     --header-button-font-line-height: 1.2em;
     --header-button-font-font-size: .9rem;
@@ -4241,7 +4241,7 @@ button,input {
 }
 
 button,select {
-    text-transform: none !important
+    text-transform: none
 }
 
 button,html input[type=button],input[type=reset],input[type=submit] {
@@ -5017,7 +5017,7 @@ body.native-currency-code-zar .sqs-money-native:before {
     color: #fff !important;
     -webkit-appearance: none;
     border: 0;
-    text-transform: none !important;
+    text-transform: uppercase;
     letter-spacing: .5px;
     font-size: 11px;
     font-weight: 500
@@ -5206,7 +5206,7 @@ body.no-scroll {
 }
 
 .sqsp-tooltip .title {
-    text-transform: none !important;
+    text-transform: uppercase;
     font-weight: 500;
     letter-spacing: .5px;
     margin-bottom: 11px
@@ -5265,7 +5265,7 @@ body.no-scroll {
     color: #3e3e3e !important;
     -webkit-appearance: none;
     border: 0;
-    text-transform: none !important;
+    text-transform: uppercase;
     letter-spacing: .5px;
     font-size: 11px;
     font-weight: 500
@@ -12856,7 +12856,6 @@ h1,h2,h3,h4 {
     font-weight: var(--heading-font-font-weight);
     line-height: var(--heading-font-line-height);
     letter-spacing: var(--heading-font-letter-spacing);
-    text-transform: var(--heading-font-text-transform)
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {

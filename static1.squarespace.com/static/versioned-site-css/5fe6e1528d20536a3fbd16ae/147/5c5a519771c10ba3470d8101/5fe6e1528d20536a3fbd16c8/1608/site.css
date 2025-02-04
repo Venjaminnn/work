@@ -9903,7 +9903,7 @@ body.sqs-lightbox-open {
     font-size: inherit;
     font-weight: inherit;
     font-style: inherit;
-    text-transform: inherit;
+    /*text-transform: inherit;*/
     letter-spacing: inherit;
     color: inherit;
     touch-action: manipulation
@@ -12595,7 +12595,7 @@ h1,h2,h3,h4 {
     font-weight: var(--primary-button-font-font-weight);
     line-height: var(--primary-button-font-line-height);
     letter-spacing: var(--primary-button-font-letter-spacing);
-    text-transform: var(--primary-button-font-text-transform)
+    /*text-transform: var(--primary-button-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12622,7 +12622,7 @@ h1,h2,h3,h4 {
     font-weight: var(--primary-button-font-font-weight) !important;
     line-height: var(--primary-button-font-line-height) !important;
     letter-spacing: var(--primary-button-font-letter-spacing) !important;
-    text-transform: var(--primary-button-font-text-transform) !important
+    /*text-transform: var(--primary-button-font-text-transform) !important*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12649,7 +12649,7 @@ h1,h2,h3,h4 {
     font-weight: var(--secondary-button-font-font-weight);
     line-height: var(--secondary-button-font-line-height);
     letter-spacing: var(--secondary-button-font-letter-spacing);
-    text-transform: var(--secondary-button-font-text-transform)
+    /*text-transform: var(--secondary-button-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12676,7 +12676,7 @@ h1,h2,h3,h4 {
     font-weight: var(--secondary-button-font-font-weight) !important;
     line-height: var(--secondary-button-font-line-height) !important;
     letter-spacing: var(--secondary-button-font-letter-spacing) !important;
-    text-transform: var(--secondary-button-font-text-transform) !important
+    /*text-transform: var(--secondary-button-font-text-transform) !important*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12703,7 +12703,7 @@ h1,h2,h3,h4 {
     font-weight: var(--tertiary-button-font-font-weight);
     line-height: var(--tertiary-button-font-line-height);
     letter-spacing: var(--tertiary-button-font-letter-spacing);
-    text-transform: var(--tertiary-button-font-text-transform)
+    /*text-transform: var(--tertiary-button-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12730,7 +12730,7 @@ h1,h2,h3,h4 {
     font-weight: var(--tertiary-button-font-font-weight) !important;
     line-height: var(--tertiary-button-font-line-height) !important;
     letter-spacing: var(--tertiary-button-font-letter-spacing) !important;
-    text-transform: var(--tertiary-button-font-text-transform) !important
+    /*text-transform: var(--tertiary-button-font-text-transform) !important*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12757,7 +12757,7 @@ h1,h2,h3,h4 {
     font-weight: var(--heading-font-font-weight);
     line-height: var(--heading-font-line-height);
     letter-spacing: var(--heading-font-letter-spacing);
-    text-transform: var(--heading-font-text-transform)
+    /*text-transform: var(--heading-font-text-transform)*/
 }
 
 .sqs-body-font {
@@ -12766,7 +12766,7 @@ h1,h2,h3,h4 {
     font-weight: var(--body-font-font-weight);
     line-height: var(--body-font-line-height);
     letter-spacing: var(--body-font-letter-spacing);
-    text-transform: var(--body-font-text-transform)
+    /*text-transform: var(--body-font-text-transform)*/
 }
 
 .sqs-meta-font {
@@ -12775,7 +12775,7 @@ h1,h2,h3,h4 {
     font-weight: var(--meta-font-font-weight);
     line-height: var(--meta-font-line-height);
     letter-spacing: var(--meta-font-letter-spacing);
-    text-transform: var(--meta-font-text-transform)
+    /*text-transform: var(--meta-font-text-transform)*/
 }
 
 html,body {
@@ -12788,7 +12788,7 @@ html,body {
     font-weight: var(--body-font-font-weight);
     line-height: var(--body-font-line-height);
     letter-spacing: var(--body-font-letter-spacing);
-    text-transform: var(--body-font-text-transform);
+    /*text-transform: var(--body-font-text-transform);*/
     -webkit-font-smoothing: antialiased
 }
 
@@ -12956,7 +12956,7 @@ h4 {
     font-weight: var(--meta-font-font-weight);
     line-height: var(--meta-font-line-height);
     letter-spacing: var(--meta-font-letter-spacing);
-    text-transform: var(--meta-font-text-transform)
+    /*text-transform: var(--meta-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -12983,7 +12983,7 @@ h4 {
     font-weight: var(--announcement-bar-font-font-weight);
     line-height: var(--announcement-bar-font-line-height);
     letter-spacing: var(--announcement-bar-font-letter-spacing);
-    text-transform: var(--announcement-bar-font-text-transform)
+    /*text-transform: var(--announcement-bar-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13010,7 +13010,7 @@ h4 {
     font-weight: var(--site-title-font-font-weight);
     line-height: var(--site-title-font-line-height);
     letter-spacing: var(--site-title-font-letter-spacing);
-    text-transform: var(--site-title-font-text-transform)
+   /*text-transform: var(--site-title-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13037,7 +13037,7 @@ h4 {
     font-weight: var(--mobile-site-title-font-font-weight);
     line-height: var(--mobile-site-title-font-line-height);
     letter-spacing: var(--mobile-site-title-font-letter-spacing);
-    text-transform: var(--mobile-site-title-font-text-transform)
+    /*text-transform: var(--mobile-site-title-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13064,7 +13064,7 @@ h4 {
     font-weight: var(--site-navigation-font-font-weight);
     line-height: var(--site-navigation-font-line-height);
     letter-spacing: var(--site-navigation-font-letter-spacing);
-    text-transform: var(--site-navigation-font-text-transform)
+    /*text-transform: var(--site-navigation-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13091,7 +13091,7 @@ h4 {
     font-weight: var(--site-navigation-font-font-weight);
     line-height: var(--site-navigation-font-line-height);
     letter-spacing: var(--site-navigation-font-letter-spacing);
-    text-transform: var(--site-navigation-font-text-transform);
+    /*text-transform: var(--site-navigation-font-text-transform);*/
     line-height: 1
 }
 
@@ -13101,7 +13101,7 @@ h4 {
     font-weight: var(--header-button-font-font-weight);
     line-height: var(--header-button-font-line-height);
     letter-spacing: var(--header-button-font-letter-spacing);
-    text-transform: var(--header-button-font-text-transform)
+    /*text-transform: var(--header-button-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13128,7 +13128,7 @@ h4 {
     font-weight: var(--header-button-font-font-weight);
     line-height: var(--header-button-font-line-height);
     letter-spacing: var(--header-button-font-letter-spacing);
-    text-transform: var(--header-button-font-text-transform);
+    /*text-transform: var(--header-button-font-text-transform);*/
     font-size: 1.2rem
 }
 
@@ -13203,7 +13203,7 @@ h4 {
     font-weight: var(--body-font-font-weight);
     line-height: var(--body-font-line-height);
     letter-spacing: var(--body-font-letter-spacing);
-    text-transform: var(--body-font-text-transform);
+    /*text-transform: var(--body-font-text-transform);*/
     font-size: 14px
 }
 
@@ -13213,7 +13213,7 @@ h4 {
     font-weight: var(--list-section-title-text-font-font-weight);
     line-height: var(--list-section-title-text-font-line-height);
     letter-spacing: var(--list-section-title-text-font-letter-spacing);
-    text-transform: var(--list-section-title-text-font-text-transform)
+    /*text-transform: var(--list-section-title-text-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13240,7 +13240,7 @@ h4 {
     font-weight: var(--video-basic-grid-list-title-font-font-weight);
     line-height: var(--video-basic-grid-list-title-font-line-height);
     letter-spacing: var(--video-basic-grid-list-title-font-letter-spacing);
-    text-transform: var(--video-basic-grid-list-title-font-text-transform)
+    /*text-transform: var(--video-basic-grid-list-title-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13267,7 +13267,7 @@ h4 {
     font-weight: var(--video-basic-grid-list-excerpt-font-font-weight);
     line-height: var(--video-basic-grid-list-excerpt-font-line-height);
     letter-spacing: var(--video-basic-grid-list-excerpt-font-letter-spacing);
-    text-transform: var(--video-basic-grid-list-excerpt-font-text-transform)
+    /*text-transform: var(--video-basic-grid-list-excerpt-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13294,7 +13294,7 @@ h4 {
     font-weight: var(--video-basic-grid-list-meta-font-font-weight);
     line-height: var(--video-basic-grid-list-meta-font-line-height);
     letter-spacing: var(--video-basic-grid-list-meta-font-letter-spacing);
-    text-transform: var(--video-basic-grid-list-meta-font-text-transform)
+    /*text-transform: var(--video-basic-grid-list-meta-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -13321,7 +13321,7 @@ h4 {
     font-weight: var(--video-basic-grid-list-category-nav-font-font-weight);
     line-height: var(--video-basic-grid-list-category-nav-font-line-height);
     letter-spacing: var(--video-basic-grid-list-category-nav-font-letter-spacing);
-    text-transform: var(--video-basic-grid-list-category-nav-font-text-transform)
+    /*text-transform: var(--video-basic-grid-list-category-nav-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
@@ -14938,7 +14938,7 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper h1 {
     font-weight: var(--heading-font-font-weight);
     line-height: var(--heading-font-line-height);
     letter-spacing: var(--heading-font-letter-spacing);
-    text-transform: var(--heading-font-text-transform)
+    /*text-transform: var(--heading-font-text-transform)*/
 }
 
 @media screen and (max-width: 767px ) and (orientation: portrait) {
